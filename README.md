@@ -1,7 +1,7 @@
 # Author: Bikash Kumar Dey
 # Created on: 24-feb-2021
 # status-code-file-processor
-Python Program to process file and check response status code
+Python Program to process file and check response status code count
 
 steps to run:
 1. clone this repo on your local system.
